@@ -1,0 +1,11 @@
+# ignore the data folder and its contents
+data/
+
+# ignore the saved model weights
+best_mnist_model.pth
+
+# standard jupyter notebook ignores (recommended)
+.ipynb_checkpoints/
+
+old.HW4_KMW_260604.ipynb
+old.old.HW4_KMW_260604.ipynb
